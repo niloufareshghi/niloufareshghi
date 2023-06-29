@@ -66,7 +66,7 @@ I am dedicated, detail-oriented, and thrive in collaborative environments. My pa
 </p>
 
 
-## My Github account information is as follows:
+## My Github account information:
 
 <table style="border:hidden;" border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -81,7 +81,7 @@ I am dedicated, detail-oriented, and thrive in collaborative environments. My pa
 
 <p align="center">
 
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidSadeghian&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/niloufareshghi)
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=niloufareshghi&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/niloufareshghi)
 
 
 </p>
