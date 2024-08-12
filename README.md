@@ -13,7 +13,7 @@
 
 ## Professional Experience
 
-**Analyst, Analytics and Data Solutions Unit** @ **Ministry of Labour, Immigration, Talent, Skills and Development** (Jan 2024 - Present)
+**Data Analyst, Analytics and Data Solutions Unit** @ **Ministry of Labour, Immigration, Talent, Skills and Development** (Jan 2024 - Present)
 
 **HR Data Analyst CO-OP** @ **Tapsell** (Feb 2020 - July 2021)
 1. Streamlined the recruitment process by constructing and administering a robust data pipeline with SQL, resulting in a 10% decrease in processing time.
