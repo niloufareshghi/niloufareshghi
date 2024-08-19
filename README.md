@@ -16,9 +16,9 @@
 **Data Analyst, Analytics and Data Solutions Unit** @ **Ministry of Labour, Immigration, Talent, Skills and Development** (Jan 2024 - Present)
 
 **HR Data Analyst CO-OP** @ **Tapsell** (Feb 2020 - July 2021)
-1. Streamlined the recruitment process by constructing and administering a robust data pipeline with SQL, resulting in a 7% decrease in processing time.
-2. Scrubbing existing human resources data with SQL and Excel, improved data accuracy and accessibility by 4%.
-3. Developed a web-based system for employee onboarding using Python (Django), reducing onboarding time by 12%.
+1. Streamlined the recruitment process by constructing and administering a robust data pipeline with SQL, resulting in a 13% decrease in processing time.
+2. Scrubbing existing human resources data with SQL and Excel, improved data accuracy and accessibility by 7%.
+3. Developed a web-based system for employee onboarding using Python (Django), reducing onboarding time by 19%.
 
 ## Education
 **Bachelor's degree in Computer Engineering from Amirkabir University of Technology (GPA: 3.7/4)**
