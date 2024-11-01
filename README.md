@@ -29,7 +29,7 @@ I have demonstrated my proficiency in data analysis and machine learning techniq
 
 ## Programming Languages, Technologies and Tools 
 <p align="center"> 
-<a href="https://github.com/FarshidSadeghian" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,mysql,javascript,googlecloud,docker,linux,latex&perline=18"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,mysql,javascript,googlecloud,docker,linux,latex&perline=18"/> </a>
 
 
 <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
