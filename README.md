@@ -106,9 +106,6 @@ Feel free to contact me via the following links:
         <a href="https://www.kaggle.com/niloofareshghi">
             <img src="https://img.icons8.com/windows/512/228BE6/kaggle.png" width=32/>
         </a>
-        <a href="https://www.instagram.com/nil_iii/">
-            <img alt="Farshid Sadeghian's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
-        </a>
 </div>
 
 <p align=center>
